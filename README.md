@@ -1,1 +1,1 @@
-# wavyi-tebu
+# WAVY-YEDEK

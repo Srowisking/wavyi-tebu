@@ -1,0 +1,49 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "wavy.js",
+  "scripts": {
+    "start": "node wavy.js"
+  },
+  "dependencies": {
+    "cat-names": "^3.0.0",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "cool-images": "^1.0.3",
+    "dateformat": "^3.0.3",
+    "discord.js": "^12.3.1",
+    "dog-names": "^2.0.0",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "funny-words": "^0.1.2",
+    "jimp": "^0.16.0",
+    "lowdb": "^1.0.0",
+    "math-expression-evaluator": "^1.2.22",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "node-superfetch": "^0.1.10",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.1",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4",
+    "svo-client": "^1.0.8",
+    "weather-js": "^2.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
